@@ -5,7 +5,7 @@ A project I made for testing and practice my Vuforia Engine skills on Unity. It 
 ##Github Repository 
 This github Repository contains the APK to play the game located in the folder **Android APK*, the AR Targets to be able to play the game and the unity package linked on the **Unity package* pdf.
 
-#Game Design
+# Game Design
 
 ## Objective
 
